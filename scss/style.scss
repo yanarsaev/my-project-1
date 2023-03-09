@@ -1,0 +1,17 @@
+// ---------- Переменные ----------
+$montserrat: 'Montserrat', sans-serif;
+$nunito: 'Nunito Sans', sans-serif;
+$roboto: 'Roboto', sans-serif;
+$clr: #5454D4;
+$bc: #19191B;
+// --------------------------------
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 0 0;
+    background-color: $bc;
+    color: #fff;
+}
+
