@@ -1,1 +1,8 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 0 0;
+  background-color: #19191B;
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
